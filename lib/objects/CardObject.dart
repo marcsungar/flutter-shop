@@ -43,7 +43,7 @@ class CardObject {
 
     final response =
     await http.get(
-        'https://raw.githubusercontent.com/marcsungar/JSON_Files_Flutter/main/flutter.json');
+        'https://raw.githubusercontent.com/marcsungar/flutter-shop/master/assets/json/flutter.json');
 
     if (product != null && product.substring(product.length - 1, product.length) == "s") {
       if (product.substring(product.length - 2, product.length) == "es" ){
