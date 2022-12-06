@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "title": "Olla tapa terracota",
+      "id": "1",
+      "image": "https://testback.apiabalit.com/img/1.png",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "price": 23,
+      "type": 1
+    },
+    {
+      "title": "Arrocera oster",
+      "id": "2",
+      "image": "https://testback.apiabalit.com/img/2.png",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "price": 32,
+      "type": 1
+    },
+    {
+      "title": "Sartén",
+      "id": "3",
+      "image": "https://testback.apiabalit.com/img/3.png",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "price": 43,
+      "type": 1
+    },
+    {
+      "title": "Lote Sushi",
+      "id": "4",
+      "image": "https://testback.apiabalit.com/img/4.png",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "price": 12,
+      "type": 2
+    },
+    {
+      "title": "Pastel de pistacho y frambuesas",
+      "id": "5",
+      "image": "https://testback.apiabalit.com/img/5.png",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "price": 24,
+      "type": 2
+    },
+    {
+      "title": "Pasta al pesto",
+      "id": "6",
+      "image": "https://testback.apiabalit.com/img/6.png",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "price": 14,
+      "type": 2
+    }
+  ]
+}
